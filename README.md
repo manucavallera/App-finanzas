@@ -1,6 +1,6 @@
-Finance App
+Finance App(En construccion)
 
-Finance App es una plataforma de gestión financiera diseñada para ayudar a los usuarios a realizar un seguimiento detallado de sus ingresos y gastos. Con una interfaz intuitiva y herramientas avanzadas, permite una administración eficiente de las finanzas personales y empresariales.
+Finance App es una plataforma de gestión financiera la cual esta en construccion , destinada para ayudar a los usuarios a realizar un seguimiento detallado de sus ingresos y gastos. Con una interfaz intuitiva y herramientas avanzadas, permite una administración eficiente de las finanzas personales y empresariales.
 
 🚀 Características Principales
 

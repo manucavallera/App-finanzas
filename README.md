@@ -1,36 +1,67 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Finance App
 
-## Getting Started
+Finance App es una plataforma de gestión financiera diseñada para ayudar a los usuarios a realizar un seguimiento detallado de sus ingresos y gastos. Con una interfaz intuitiva y herramientas avanzadas, permite una administración eficiente de las finanzas personales y empresariales.
 
-First, run the development server:
+🚀 Características Principales
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+📊 Panel financiero interactivo: Visualiza tu información financiera con gráficos dinámicos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🔁 Cambio de tipos de gráficos: Personaliza la visualización de datos según tus necesidades.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+🗓 Filtros de cuenta y fecha: Filtra transacciones por cuenta y rango de fechas.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+💹 Tabla de transacciones detallada: Revisión completa de cada transacción.
 
-## Learn More
+➕ Formulario para agregar transacciones: Agrega nuevas transacciones de manera sencilla.
 
-To learn more about Next.js, take a look at the following resources:
+🧩 Componentes select personalizados: Interfaces optimizadas para selección de datos.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+💵 Alternancia de ingresos y gastos: Visualización clara de flujo de dinero.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🔄 Importación de transacciones desde CSV: Carga rápida de datos desde archivos externos.
 
-## Deploy on Vercel
+🔥 API rápida y eficiente con Hono.js
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+🪝 Gestión de estado con Tanstack React Query
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+🔗 Conexión con bancos a través de Plaid
+
+💳 Mejoras premium mediante Lemon Squeezy
+
+🔐 Autenticación segura con Clerk (Core 2)
+
+🗑 Borrado masivo y búsqueda en transacciones
+
+⚙️ Gestión de desconexión bancaria y suscripciones
+
+👤 Personalización de configuraciones de usuario
+
+🌐 Construido con Next.js 14
+
+🎨 Diseñado con TailwindCSS y Shadcn UI
+
+💾 Base de datos PostgreSQL con Drizzle ORM
+
+🚀 Desplegado en Vercel
+
+🛠 Tecnologías Utilizadas
+
+Frontend: Next.js 14, React, TailwindCSS, Shadcn UI
+
+Backend: Hono.js
+
+Base de datos: PostgreSQL con Drizzle ORM
+
+Autenticación: Clerk (Core 2)
+
+Gestión de estado: Tanstack React Query
+
+Conexión bancaria: Plaid
+
+Pagos premium: Lemon Squeezy
+
+Despliegue: Vercel
+
+📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
